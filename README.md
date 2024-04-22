@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   
 
 
-  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Ezd3d1aTdmZ2lwZHZkNjdzZDJjZDBsZmQ4cWl4Zmx3bnk1MjAwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif
                   
 </p>
 <div id="header" align="center">
