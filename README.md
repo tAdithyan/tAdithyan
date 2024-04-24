@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
                   
 </p>
- <button><a  href="https://portfolio-6b96.vercel.app/" target="_blank" style="text-decoration=none" >My Profile</a></button>
+ <button><a  href="https://portfolio-6b96.vercel.app/" target="_blank">My Profile</a></button>
