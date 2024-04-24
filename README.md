@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
- <button><a  href="https://portfolio-6b96.vercel.app/" target="_blank" >My Profile</a></button>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html" width="45" height="45" />
@@ -33,3 +32,4 @@ Here are some ideas to get you started:
 
                   
 </p>
+ <button><a  href="https://portfolio-6b96.vercel.app/" target="_blank" >My Profile</a></button>
